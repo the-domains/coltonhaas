@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ColtonHaas]]></title>
         <description><![CDATA[ColtonHaas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coltonhaas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 18:23:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 18:25:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coltonhaas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to the landscape by which I sew my thoughts and belief into with the subtle hope that one day, maybe someone will have reaped something of value. </p>]]></description>
-            <link>undefinede7e787ca-41e8-42cc-b35e-e38f0d85e2be/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac769259-67c5-4034-9833-92ced1ed6320.jpg">]]></description>
+            <link>https://thegrid.ai/coltonhaas/e7e787ca-41e8-42cc-b35e-e38f0d85e2be/index.html</link>
             <guid isPermaLink="false">e7e787ca-41e8-42cc-b35e-e38f0d85e2be</guid>
-            <pubDate>Sat, 05 Mar 2016 18:22:22 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 18:25:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
