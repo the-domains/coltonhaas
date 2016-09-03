@@ -1,4 +1,3 @@
-layout_spectrum: 0.5943991255480796
 typography_spectrum: 0.9533518573734909
 color:
   saturation: 0.5531044681556523
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5943991255480796
 analytics:
   twitter: null
   google: null
@@ -30,6 +30,9 @@ cta:
 navigation:
   - name: About
     id: a9d5103e-8adc-4326-be5d-3e72d961ab79
+    type: content
+  - name: Race
+    id: 8733716a-8764-49cb-8a60-91ce61999104
     type: content
 favicon: null
 collections:
