@@ -25,7 +25,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: why this
+  - name: About
     id: a9d5103e-8adc-4326-be5d-3e72d961ab79
     type: content
 favicon: null
