@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T18:15:30.188Z'
+datePublished: '2016-08-31T18:18:52.802Z'
 sourcePath: _posts/2016-08-31-race-and-its-significant-insignificance.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-31T18:15:29.788Z'
+dateModified: '2016-08-31T18:18:48.699Z'
 title: race & its significant insignificance
 publisher: {}
 description: I want to address race and its significant insignificance.
@@ -13,6 +13,8 @@ starred: false
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27f56db4-267c-4ce2-9702-e59558b1a348.jpg)
+
 # race & its significant insignificance
 
 I want to address race and its significant insignificance.
