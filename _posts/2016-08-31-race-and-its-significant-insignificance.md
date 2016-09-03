@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T18:28:54.791Z'
+datePublished: '2016-08-31T18:28:57.086Z'
 sourcePath: _posts/2016-08-31-race-and-its-significant-insignificance.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-31T18:28:50.459Z'
+dateModified: '2016-08-31T18:28:56.589Z'
 title: race & its significant insignificance
 publisher: {}
 description: I want to address race and its significant insignificance.
