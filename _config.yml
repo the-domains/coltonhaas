@@ -1,9 +1,30 @@
-favicon: null
-name: Colton Haas
+typography_spectrum: 0.4761696918867528
+color:
+  saturation: 0.85635303449817
+  brandStrength: 0.1118391144555062
+  rhythmicContrast: 0.0498528559692204
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  lightness: 0.6327910453546792
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4989259
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Colton Haas
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Colton Haas
 purpose: []
-color:
-  saturation: 0.85635303449817
-  brandStrength: 0.1118391144555062
-  rhythmicContrast: 0.0498528559692204
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  lightness: 0.6327910453546792
-typography_spectrum: 0.4761696918867528
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.4989259
-analytics:
-  twitter: null
-  google: null
-  facebook: null
