@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T17:57:41.076Z'
+datePublished: '2016-08-31T17:59:11.821Z'
 sourcePath: >-
   _posts/2016-08-31-launching-into-theoretical-thought-mazes-is-what-i-love-to-d.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T17:57:40.650Z'
+dateModified: '2016-08-31T17:59:11.480Z'
 title: >-
   Navigating through theoretical thought mazes is what I love to do. It’s what
   you’ll see here.
