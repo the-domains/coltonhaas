@@ -1,4 +1,5 @@
-typography_spectrum: 0.2726932775694877
+layout_spectrum: 0.5943991255480796
+typography_spectrum: 0.9533518573734909
 color:
   saturation: 0.5531044681556523
   brandStrength: 0.608995164046064
@@ -14,7 +15,6 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.042005644645541906
 analytics:
   twitter: null
   google: null
