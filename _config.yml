@@ -1,4 +1,3 @@
-layout_spectrum: 0.042005644645541906
 typography_spectrum: 0.2726932775694877
 color:
   saturation: 0.5531044681556523
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.042005644645541906
 analytics:
   twitter: null
   google: null
@@ -38,5 +38,5 @@ collections:
       format: rss
       number: 10
 title: Colton Haas
-description: who blogs anymore?
+description: 'Conservative and young, two things that stereotypically contradict each other.'
 purpose: []
