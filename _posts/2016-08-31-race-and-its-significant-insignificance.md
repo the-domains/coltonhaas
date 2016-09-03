@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-31T17:07:45.986Z'
+datePublished: '2016-08-31T17:35:19.762Z'
+sourcePath: _posts/2016-08-31-race-and-its-significant-insignificance.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T17:07:35.450Z'
-title: 'race & its significant insignificance '
+dateModified: '2016-08-31T17:35:19.349Z'
+title: race & its significant insignificance
 publisher: {}
 description: I want to address race and its significant insignificance.
 starred: false
-sourcePath: _posts/2016-08-31-race-and-its-significant-insignificance.md
 _type: Blurb
 
 ---
-# race & its significant insignificance ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e39c7f812a6d37025d76601d309ccba8/croprotate.jpg?cropheight=641&cropwidth=2000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff341a448-947f-4324-98f8-d078e1fffe35.jpg&x=0&y=200)
+# race & its significant insignificance
 
 I want to address race and its significant insignificance.
 
