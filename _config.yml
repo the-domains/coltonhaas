@@ -31,9 +31,6 @@ navigation:
   - name: About
     id: a9d5103e-8adc-4326-be5d-3e72d961ab79
     type: content
-  - name: Race
-    id: 8733716a-8764-49cb-8a60-91ce61999104
-    type: content
 favicon: null
 collections:
   - index:
